@@ -1,0 +1,28 @@
+name: Sydney Small Business Advisory Hub
+favicon: null
+layout_spectrum: 0.9422974954359233
+typography_spectrum: 0.5969231459312141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5730195792857558
+  lightness: 0.8385661609936506
+  saturation: 0.2034011345822364
+  rhythmicContrast: 0.9557666820473969
+purpose: []
