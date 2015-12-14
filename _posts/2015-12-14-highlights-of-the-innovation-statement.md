@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.swansonreed.com.au'
   name: Swansonreed
-  favicon: 'http://www.swansonreed.com.au/wp-content/themes/SwansonReed/favicon.ico'
   domain: www.swansonreed.com.au
+  url: 'http://www.swansonreed.com.au'
+  favicon: 'http://www.swansonreed.com.au/wp-content/themes/SwansonReed/favicon.ico'
 keywords:
   - innovation
   - start-up
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.swansonreed.com.au/highlights-of-the-innovation-statement/?utm_source=Master+List&utm_campaign=fa8909b5e2-InnovationStatement15_25_2015&utm_medium=email&utm_term=0_14bf1bf555-fa8909b5e2-56993945'
 title: Highlights of the Innovation Statement
-datePublished: '2015-12-14T01:51:43.168Z'
-dateModified: '2015-12-14T01:51:18.952Z'
+datePublished: '2015-12-14T04:22:13.902Z'
+dateModified: '2015-12-14T04:22:01.895Z'
 sourcePath: _posts/2015-12-14-highlights-of-the-innovation-statement.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
