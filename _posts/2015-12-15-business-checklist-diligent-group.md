@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Free assessment checklist to determine if your business model and  you are ready to commence your new  start-up small business.
-datePublished: '2015-12-15T20:46:58.447Z'
-dateModified: '2015-12-15T20:42:40.293Z'
+datePublished: '2015-12-15T20:48:19.818Z'
+dateModified: '2015-12-15T20:48:11.955Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Business Checklist - Diligent Group</h1><p>Free assessment checklist to determine if your business model and  you are ready to commence your new  start-up small business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c62d5d1c2083076fd6ee266e3581cace6f1c5fe3.png" /></article>
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/709b03063389f27ed14c04224e944d65f547e031.jpg)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ffdd8e8-424d-43a7-92ff-b4b621d49e49.jpg)
+<article style=""><h1>Business Checklist - Diligent Group</h1><p>Free assessment checklist to determine if your business model and  you are ready to commence your new  start-up small business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c62d5d1c2083076fd6ee266e3581cace6f1c5fe3.png" /></article>
