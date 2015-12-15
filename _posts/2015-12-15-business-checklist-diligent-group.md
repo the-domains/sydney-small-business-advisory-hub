@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Free assessment checklist to determine if your business model and  you are ready to commence your new  start-up small business.
-datePublished: '2015-12-15T20:33:11.839Z'
-dateModified: '2015-12-15T20:12:51.560Z'
+datePublished: '2015-12-15T20:42:14.300Z'
+dateModified: '2015-12-15T20:42:04.888Z'
 author: []
 related: []
 app_links: []
