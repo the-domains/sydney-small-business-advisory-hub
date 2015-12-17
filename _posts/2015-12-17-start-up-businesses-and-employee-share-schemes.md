@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T04:33:23.207Z'
-dateModified: '2015-12-17T04:33:00.180Z'
+datePublished: '2015-12-17T04:34:53.940Z'
+dateModified: '2015-12-17T04:33:23.207Z'
 title: How can my small business take advantage of employee share schemes?
 author: []
 sourcePath: _posts/2015-12-17-start-up-businesses-and-employee-share-schemes.md
