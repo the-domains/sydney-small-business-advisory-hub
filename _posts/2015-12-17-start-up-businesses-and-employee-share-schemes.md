@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T03:55:16.577Z'
-dateModified: '2015-12-17T03:54:19.563Z'
+datePublished: '2015-12-17T04:33:23.207Z'
+dateModified: '2015-12-17T04:33:00.180Z'
 title: How can my small business take advantage of employee share schemes?
 author: []
 sourcePath: _posts/2015-12-17-start-up-businesses-and-employee-share-schemes.md
@@ -51,10 +51,12 @@ Start-up companies, from any industry, need to:
 * have no equity interests listed on an approved stock exchange
 * have an aggregated turnover less than $50 million.
 
-So what do I need to know and where do I go?
+**So what do I need to know and where do I go?**
 
 The ATO have produced a great PDF booklet on everything you need to know. [Click here][0] for the link: 
 
 https://www.ato.gov.au/uploadedFiles/Content/MEI/downloads/ESS%20standard%20docs%20instructions.pdf
+
+Contact us on 02 9817-3000 or info@diligentgroup.com.au to discuss how your business can take advantage of employee share schemes, mention this article and our first consultation is free!
 
 [0]: https://www.ato.gov.au/uploadedFiles/Content/MEI/downloads/ESS%20standard%20docs%20instructions.pdf
