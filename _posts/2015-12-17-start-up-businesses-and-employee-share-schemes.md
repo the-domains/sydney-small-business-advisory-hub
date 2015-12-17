@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T02:12:24.381Z'
-dateModified: '2015-12-17T02:12:09.364Z'
-title: Start Up Businesses and Employee Share Schemes
+datePublished: '2015-12-17T03:55:16.577Z'
+dateModified: '2015-12-17T03:54:19.563Z'
+title: How can my small business take advantage of employee share schemes?
 author: []
+sourcePath: _posts/2015-12-17-start-up-businesses-and-employee-share-schemes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-start-up-businesses-and-employee-share-schemes.md
-published: true
 url: start-up-businesses-and-employee-share-schemes/index.html
 _type: Article
 
 ---
-**Employee Share Schemes and Start Up Businesses!**
+**_Employee Share Schemes and Start Up Businesses_!**
 
 Do you know the changes made to employee share schemes from July 1, 2015 and how they benefit your business?
 
