@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.diligentgroup.com.au/what-australias-new-innovation-statement-means-for-small-business/'
 title: "What Australia's new innovation statement means for small business - Diligent Group"
-datePublished: '2015-12-25T21:03:18.647Z'
-dateModified: '2015-12-25T21:02:42.054Z'
+datePublished: '2015-12-25T21:07:03.206Z'
+dateModified: '2015-12-25T21:03:18.647Z'
 sourcePath: _posts/2015-12-25-what-australias-new-innovation-statement-means-for-small-bu.md
 published: true
 inFeed: true
